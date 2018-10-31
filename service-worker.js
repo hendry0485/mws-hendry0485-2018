@@ -16,6 +16,15 @@ self.addEventListener('install', function(event) {
 				'/project1/app/add2numbers.js',
 				'/project2/index.html',
 				'/project2/css/mystyle.css'
+				'/project3/index.html',
+				'/project3/css/peta.css',
+				'/project3/js/peta.js',
+				'/project3/data/peta.json',
+				'/project3/images/ikan_bakar.jpg',
+				'/project3/images/seafood.jpg',
+				'/project3/images/spanish_resto.jpg',
+				'/project3/images/steak.jpg',
+				'/project3/images/warkop.jpg',
 				'https://unpkg.com/leaflet@1.3.4/dist/leaflet.css'
 				'https://unpkg.com/leaflet@1.3.4/dist/leaflet.js'
 			]);
