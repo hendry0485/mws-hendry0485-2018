@@ -12,6 +12,7 @@ self.addEventListener('install', function(event) {
 				'/images/home.svg',
 				'/images/calculator.svg',
 				'/images/maps.svg',
+				'/images/fetch_api.jpg',
 				'/project1/add2numbers.html',
 				'/project1/app/add2numbers.js',
 				'/project2/index.html',
