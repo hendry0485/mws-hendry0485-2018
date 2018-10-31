@@ -1,0 +1,65 @@
+
+html, body, #map{
+	height: 100%;
+	width: 100vw;
+}
+
+body{
+	/*background: #24252a;*/
+	/*background: #34495e;*/
+	padding: 0px;
+	margin: 0px;
+	background-color: #ddd;
+	color: #fff;
+	font-family: 'Arial';
+}
+
+
+img{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.container{
+	display: grid;
+	height: 100%;
+	grid-template-columns: repeat(8, 1fr);
+	grid-template-rows:5% 60% 30% 5%;
+	grid-gap:4px;
+}
+
+.menu{
+	background: #364150;
+	grid-column:1/-1;
+	text-transform: uppercase;
+	padding: 2px 10px;
+}
+
+.menu-icon{
+	height: 20px;
+}
+
+.peta{
+	grid-column:1/-1;
+}
+
+.gambar{
+	background: green;
+	grid-column:1/5;
+}
+
+.review{
+	color: black;
+	background: yellow;
+	grid-column:5/-1;
+}
+
+.footer{
+	grid-column:1/-1;
+	background: #364150;
+}

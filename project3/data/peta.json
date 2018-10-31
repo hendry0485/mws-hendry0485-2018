@@ -1,0 +1,14 @@
+{
+	"places" : [
+		{
+			"lokasi": [-6.221028, 106.791434], 
+			"sponsor" : "Resto Spanyol",
+			"gambar":"images/spanish_resto.jpg",
+			"review": "Restoran Spanyol terbaik di Jakarta"
+			},
+		{"lokasi": [-6.219912, 106.791239], "sponsor" : "Warung Kopi", "gambar":"images/warkop.jpg","review": "Warung Kopi rasa bintang 5, harga kaki 5"},
+		{"lokasi": [-6.220529, 106.789848], "sponsor" : "Pondok Ikan Bakar", "gambar":"images/ikan_bakar.jpg","review": "Ikan Bakar sampai tulang"},
+		{"lokasi": [-6.222977, 106.789152], "sponsor" : "STEAK cow", "gambar":"images/steak.jpg","review": "Steak  lokal harga impor, 200gr dan 300gr mentah "},
+		{"lokasi": [-6.222043, 106.791070], "sponsor" : "Rupa-rupa Seafood!!", "gambar":"images/seafood.jpg","review": "Resto Seafood International lobster, king crabs, cumi, kerang, semua ada"}
+	]
+}
